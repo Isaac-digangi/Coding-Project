@@ -1,0 +1,44 @@
+*{
+    background-color: black;
+    color: rgb(111, 197, 255);
+}
+
+h2,h3,h4,h5,h6{
+    color:blue;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 6rem;
+}
+
+h2{
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+    font-size: 5rem;
+}
+
+h3{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-size: 4rem;
+}
+
+h4{
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h5{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h6{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 1rem;
+}
