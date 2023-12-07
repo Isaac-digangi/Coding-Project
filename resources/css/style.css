@@ -3,6 +3,16 @@
     color: rgb(111, 197, 255);
 }
 
+.home{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Whisper', cursive;
+}
+
+a{
+    text-decoration: none;
+}
+
 h2,h3,h4,h5,h6{
     color:blue;
 }
